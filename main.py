@@ -1,3 +1,5 @@
+import menuSistema
+
 def menuInicial():
     global continuar 
     continuar = True
@@ -15,7 +17,7 @@ Opção desejada:
         if opcao == 1:
             #inserir módulo cadastrar usuário
         elif opcao == 2:
-            #inserir módulo menu do sistema
+            menuSistema.menuSistema()
         elif opcao == 0:
             print("---Encerrando o programa---")
             continuar = False
