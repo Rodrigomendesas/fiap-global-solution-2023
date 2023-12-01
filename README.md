@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O aplicativo Hora Do Remédio tem como foco ajudar pessoas idosas - ou outras pessoas - com dificuldades para se organizar, lembrar e manter uma rotina de tratamentos que incluam medicamentos. 
+O aplicativo **Hora Do Remédio** tem como foco ajudar pessoas idosas - ou outras pessoas - com dificuldades para se organizar, lembrar e manter uma rotina de tratamentos que incluam medicamentos. 
 
 Assim, o aplicativo mantém um registro de todas as medicações que a pessoa deve tomar, em quais horários e por quanto tempo. Traz ainda quais remédios virão na sequência, e em que horário. Além disso, há diferentes perfis, com diferentes papéis, para acompanhar e ajudar este paciente a não deixar de tomar seu remédio. 
 
@@ -18,7 +18,11 @@ Além disso, o aplicativo mantém registro do Histórico de tratamentos da pesso
 
 Por fim, como uma forma de incentivar a educação e a informação dos usuários em geral, as bulas dos medicamentos poderão ser acessadas dentro do próprio aplicativo, por meio da API da Anvisa. 
 
-Equipe de desenvolvimento: 
+Veja [aqui](https://www.youtube.com/watch?v=hQ_MBanvY0g) nosso vídeo com a explicação dessa aplicação. 
+
+E caso seja interessante, veja [aqui](https://www.youtube.com/watch?v=mwM9VgYXdVw) o vídeo com o nosso pitch do projeto. 
+
+**Equipe de desenvolvimento:** 
 
 Luana Sousa Matos RM 552621
 Matheus de Freitas Silva RM 552602
