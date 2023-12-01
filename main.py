@@ -1,3 +1,4 @@
+import cadastrarUsuario
 import menuSistema
 
 def menuInicial():
@@ -15,7 +16,7 @@ Opção desejada:
 """
         ))
         if opcao == 1:
-            #inserir módulo cadastrar usuário
+            cadastrarUsuario.cadastrarUsuario()
         elif opcao == 2:
             menuSistema.menuSistema()
         elif opcao == 0:
