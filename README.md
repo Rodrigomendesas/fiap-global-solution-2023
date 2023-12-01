@@ -23,7 +23,7 @@ Veja [aqui](https://www.youtube.com/watch?v=hQ_MBanvY0g) nosso vídeo com a expl
 E caso seja interessante, veja [aqui](https://www.youtube.com/watch?v=mwM9VgYXdVw) o vídeo com o nosso pitch do projeto. 
 
 **Equipe de desenvolvimento:** 
-
+Turma 1TDSPC
 Luana Sousa Matos RM 552621
 Matheus de Freitas Silva RM 552602
 Rodrigo Mendes de Almeida Silva RM 553448
